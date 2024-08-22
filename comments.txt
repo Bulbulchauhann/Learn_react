@@ -1,0 +1,9 @@
+running react project commands
+npx create-react-app
+run- npm run start
+build- npm run build
+
+running vite+react project
+npm create vite@latest
+install - npm install
+run - npm run dev
