@@ -9,3 +9,8 @@
 1. Creating vite+react project : npm create vite@latest
 2. Installing vite+react project : npm install
 3. Running vite+react project : npm run dev
+
+--------------------------------------------------------------------------
+Topics : 
+1. Understanding react flow and structure
+2. Creating our own react library and JSX
