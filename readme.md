@@ -12,6 +12,6 @@
 
 --------------------------------------------------------------------------
 Topics : 
-1. Understanding react flow and structure
-2. Creating our own react library and JSX
-3. Why we need hooks and project ?
+1. Understanding react flow and structure. 
+2. Creating our own react library and JSX.
+3. Why we need hooks and project?
