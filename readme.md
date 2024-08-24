@@ -12,5 +12,7 @@
 
 --------------------------------------------------------------------------
 Topics : 
-1. Understanding react flow and structure
-2. Creating our own react library and JSX
+1. Understanding react flow and structure. 
+2. Creating our own react library and JSX.
+3. Why we need hooks and project?
+4. Virual DOM, Fibre and Reconciliation (Learn more at https://github.com/acdlite/react-fiber-architecture)
