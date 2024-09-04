@@ -6,6 +6,13 @@ import Card from './components/Card'
 
 function App() {
   const [count, setCount] = useState(0)
+  let myObj = {
+    username : "Hitesh",
+    age: 21
+
+    
+  }
+  let newArr   = [1, 2, 3] 
 
   return (
     <>
@@ -28,7 +35,7 @@ function App() {
     </button>
   </div>
 </div> */}
-     <Card />
+     <Card channel="chai aur code" someObj={myObj} />
      <Card/>
 
 
