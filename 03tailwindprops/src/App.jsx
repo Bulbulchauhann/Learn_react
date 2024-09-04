@@ -28,6 +28,8 @@ function App() {
     </button>
   </div>
 </div> */}
+     <Card />
+     <Card/>
 
 
     </>
