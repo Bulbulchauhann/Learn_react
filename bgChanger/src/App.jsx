@@ -1,6 +1,6 @@
-import useState from "react"
+import { useState } from "react"
 function App() {
-  const [color, setColor] = useState("red") //state
+  const [color, setColor] = useState("olive") //state
 
   return (
 
@@ -22,9 +22,7 @@ function App() {
             style={{ backgroundColor: "Black" }}>Black</button>
         </div>
       </div>
-
     </div>
-
   )
 }
 
